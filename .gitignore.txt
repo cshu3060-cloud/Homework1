@@ -1,0 +1,17 @@
+# Visual Studio 生成的用户特定文件和数据
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 文件内容索引
+*.vsidx
+*.vsscc
+
+# 其他 Visual Studio 临时文件
+*.suo
+*.cache
+*.obj
+*.pdb
+bin/
+obj/
