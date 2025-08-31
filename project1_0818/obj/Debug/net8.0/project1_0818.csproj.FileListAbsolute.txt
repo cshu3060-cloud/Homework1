@@ -12,3 +12,4 @@ C:\coding_project\project1_0818\project1_0818\obj\Debug\net8.0\refint\project1_0
 C:\coding_project\project1_0818\project1_0818\obj\Debug\net8.0\project1_0818.pdb
 C:\coding_project\project1_0818\project1_0818\obj\Debug\net8.0\project1_0818.genruntimeconfig.cache
 C:\coding_project\project1_0818\project1_0818\obj\Debug\net8.0\ref\project1_0818.dll
+C:\coding_project\project1_0818\project1_0818\obj\Debug\net8.0\project1_0818.sourcelink.json

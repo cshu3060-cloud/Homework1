@@ -9,8 +9,8 @@ Weipeng.Add(5, 8);
 Weipeng.Greet();
 
 
-int value = 0;
-for (int i = 0; i < 20; i++)
+int value = 1;
+for (int i = 1; i <= 20; i++)
 {
     if (value % 3 == 0 || value % 5 == 0)
     {
