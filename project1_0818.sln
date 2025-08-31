@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project1_0818", "project1_0818\project1_0818.csproj", "{41723AE3-6B1B-4ACC-80EC-ED5FB9046134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-练习", "..\..\siki-Pratice\002-练习\002-练习.csproj", "{375176CB-998E-4489-BD90-994C81C4C116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41723AE3-6B1B-4ACC-80EC-ED5FB9046134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41723AE3-6B1B-4ACC-80EC-ED5FB9046134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41723AE3-6B1B-4ACC-80EC-ED5FB9046134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41723AE3-6B1B-4ACC-80EC-ED5FB9046134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{375176CB-998E-4489-BD90-994C81C4C116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375176CB-998E-4489-BD90-994C81C4C116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375176CB-998E-4489-BD90-994C81C4C116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375176CB-998E-4489-BD90-994C81C4C116}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD103E1F-6C7D-4221-8CD7-21892F618F0C}
+	EndGlobalSection
+EndGlobal
